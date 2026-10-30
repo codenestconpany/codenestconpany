@@ -34,14 +34,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
-
-## 🚀 Key Projects & Initiatives
-* **🤖 Kidora Platform:** منصة تعليمية رقمية تفاعلية للأطفال مدعومة بالذكاء الاصطناعي لتحليل السلوك وتوليد القصص المخصصة.
-* **🌐 UniHub:** نظام تواصل أكاديمي وإداري متكامل لإدارة العمليات الجامعية.
-* **📈 Advanced Management Dashboards:** لوحات تحكم تحليلية لإدارة المشاريع ومتابعة مؤشرات الأداء (KPIs).
-
----
 
 <div align="center">
   <p><b>Engineered with Excellence & Vision by Code Nest Team</b></p>
